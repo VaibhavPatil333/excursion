@@ -27,3 +27,8 @@ a {
   font-size: 21px;
   color: grey;
 }
+#footer {
+  text-align: right;
+  color: gray;
+  font-size: 30px;
+}
